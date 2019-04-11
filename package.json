@@ -1,6 +1,6 @@
 {
   "name": "glsl-parser",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "transform streamed glsl tokens into an ast",
   "main": "stream.js",
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stackgl/glsl-parser.git"
+    "url": "git+https://github.com/AgustinBrst/glsl-parser"
   },
   "keywords": [
     "glsl",
